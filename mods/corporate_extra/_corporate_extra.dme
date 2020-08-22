@@ -1,0 +1,6 @@
+#ifndef MODPACK_CORPORATE_EXTRA
+#define MODPACK_CORPORATE_EXTRA
+// BEGIN_INCLUDE
+#include "_corporate_ranks.dm"
+// END_INCLUDE
+#endif
